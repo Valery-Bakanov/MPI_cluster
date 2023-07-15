@@ -1,0 +1,7 @@
+#!/bin/bash
+
+chmod 777 -c -v -R *
+
+chown quest -c -v -R *
+
+chgrp users -c -v -R *
